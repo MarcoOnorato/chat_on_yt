@@ -2,6 +2,10 @@
 
 This application allows you to summarize what is said in a youtube video and get answers based on its context.
 
+Open the notebook chat_on_yt.ipynb and edit it to your liking.
+
+# Instructions 
+
 This application is based on the Ollama service.
 
 Just follow the download guide on https://ollama.com/ and then pull the model you need using the shell command "ollama pull <MODEL NAME>"
